@@ -182,9 +182,8 @@ https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c
 
 
 ```mermaid
-%% Оформление mermaid
 graph LR;
-Hash --> id commit;
+Hash-->id;
 ```
 
 
