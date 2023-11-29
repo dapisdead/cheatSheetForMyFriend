@@ -184,8 +184,7 @@ https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c
 ```mermaid
 %% Оформление mermaid
 graph LR;
-Хэширование -- "hash" --> это способ преобразовать набор данных и получить их «отпечаток»;
-Хэш --> уникальный номер коммита;
+Hash --> id commit;
 ```
 
 
